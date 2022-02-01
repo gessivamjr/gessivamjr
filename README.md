@@ -1,6 +1,7 @@
-### Hello world! 👋
+### Olá, Mundo! 👋
+Meu nome é Gessivam Júnior, estudante de programação em <T> com ênfase em front end.
 
-- 🌱 I’m currently studying React and React Native
-- 💻 Also improving myself in Javascript, Node, HTML and CSS :)
-- 🔑 Time is the key
-- 📫 How to reach me: juniorgessivam@gmail.com
+- 🌱 Atualmente estou estudando React/Next.js e React Native
+- 💻 Continuo me aperfeiçoando em Javascript, Node, HTML e CSS :)
+- 🔑 O trunfo é só questão de tempo
+- 📫 Contato: juniorgessivam@gmail.com
