@@ -1,7 +1,7 @@
 ### Olá, Mundo! 👋
-Meu nome é Gessivam Júnior, estudante de programação em T com ênfase em front end.
+Meu nome é Gessivam Júnior, vivo buscando por novos aprendizados e ferramentas na área de tecnologia que auxiliem na minha capacidade de resolução de problemas :fire:     
 
-- 🌱 Atualmente estou estudando React/Next.js e React Native
-- 💻 Continuo me aperfeiçoando em Javascript, Node, HTML e CSS :)
+- 💻 Dev Front End React em formação
+- 🌱 Atualmente estou estudando Typescript
 - 🔑 O trunfo é só questão de tempo
 - 📫 Contato: juniorgessivam@gmail.com
