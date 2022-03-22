@@ -1,15 +1,13 @@
 # Olá Mundo! Eu sou Gessivam Júnior! 👋
 
 ### 📱 Estudante de desenvolvimento mobile com React Native
-- 🔥 Sempre a procura de novos desafios e tecnologias/ferramentas que contribuam para a solução de problemas  
+- 💁 De Geografia para a área de tecnologia, hoje almejo transformar os conhecimentos críticos em soluções através do desenvolvimento  
+- 🔥 Sempre a procura de novos desafios e tecnologias/ferramentas que me auxiliem na resolução de problemas  
 - 🌱 Atualmente estou estudando Typescript e me aprofundando nas tecnologias complementares ao React Native
 - 💼 Acompanhe meu [LinkedIn](https://www.linkedin.com/in/gessivam-j%C3%BAnior-0a2b7b1a8/)
 - 💬 Me siga no [Twitter](https://twitter.com/junio_dev)
 
-
 -----
-
-
 
 ## Tecnologias
 > Apenas algumas das funcionalidades que fazem parte do meu cinto de utilidades
