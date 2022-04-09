@@ -1,6 +1,6 @@
 # Olá Mundo! Eu sou Gessivam Júnior! 👋
 
-### 📱 Estudante de desenvolvimento Back End com Node.js
+### 💻 Estudante de desenvolvimento Back End com Node.js
 - 💁 De Geografia para a área de tecnologia, hoje almejo transformar os conhecimentos críticos em soluções através do desenvolvimento  
 - 🔥 Sempre a procura de novos desafios e tecnologias/ferramentas que me auxiliem na resolução de problemas  
 - 🌱 Atualmente estou estudando Typescript e me aprofundando nas tecnologias complementares ao Node.js
