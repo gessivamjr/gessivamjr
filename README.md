@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Backend Node.js
 - 💼 Atuando na InfoJr - Empresa Júnior de Informática da UFBA.
-- 🔥 Sou interessado em desenvolver produtos com tecnologia, me aprofundado mais a cada desafio encontrado e sempre aumentando a qualidade das minhas entregas. Desenvolver nos faz entrar em contato com negócios e consequentemente com pessoas, por isso gosto também de trabalhar em equipe, prezando por empatia e comunicação, aproveitando as trocas que cada um tem a oferecer.
+- 🔥 Desenvolvo produtos com tecnologia, me aprofundado mais a cada desafio encontrado e sempre aumentando a qualidade das minhas entregas. Hoje faço uso da stack Node.js + Typescript, experiência com os frameworks Express e NestJS, conhecimento em Git, POO, SQL, NoSQL, ORM's, UML, documentação, testes, DDD, Clean Arquitecture, S.O.L.I.D e Docker.
 - 📎 Acompanhe meu [LinkedIn](https://www.linkedin.com/in/gessivam-junior/)
 
 -----
