@@ -2,7 +2,7 @@
 
 ### 💻 Engenheiro de Software Fullstack
 - 💼 Atuando na E-rural e InfoJr.
-- 🔥 Desenvolvo soluções para produtos com tecnologia, me aprofundado mais a cada desafio encontrado e sempre aumentando a qualidade das minhas entregas. 
+- 🔥 Desenvolvo soluções para produtos usando tecnologia, me aprofundado mais a cada desafio encontrado e sempre aumentando a qualidade das minhas entregas. 
 - 📎 Me acompanhe pelo [LinkedIn](https://www.linkedin.com/in/gessivam-junior/)
 
 -----
@@ -58,6 +58,5 @@
                 width="48" height="48" alt="Docker" />
             <br>Docker
         </td>
-       
     </tr>
 </table>
