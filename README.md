@@ -1,7 +1,7 @@
 # Welcome! 👋
 My name is Gessivam, and I'm from Brazil!  🇧🇷  
 I'm a curious T-shaped software engineer, daily solving key problems to make people's life easier with technology.  
-Currently working at erural, the largest cattle marketplace in Brazil, and eruralpay, our financial app to cattle breeders.  
+Currently working at [erural](https://www.erural.net/), the largest cattle marketplace in Brazil, and [eruralpay](https://www.eruralpay.net/), our financial app to cattle breeders.  
 Enthusiast of the Ruby on Rails and Vue.js tech stack, but always studying and working with other technologies.
 >📎[LinkedIn](https://www.linkedin.com/in/gessivam-junior/)
 
