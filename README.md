@@ -1,8 +1,10 @@
 # Welcome! 👋
-My name is Gessivam, and I'm from Brazil!  🇧🇷  
-I'm a curious T-shaped software engineer, daily solving key problems to make people's life easier with technology.  
-Currently working at [erural](https://www.erural.net/), the largest cattle marketplace in Brazil, and [eruralpay](https://www.eruralpay.net/), our financial app to cattle breeders.  
-Enthusiast of the Ruby on Rails and Vue.js tech stack, but always studying and working with other technologies.
+
+My name is Gessivam, and I'm from Brazil! 🇧🇷  
+I'm a software engineer, 3 years experienced in solving many different problems with technology. 
+Currently working as fullstack with the Ruby on Rails and Vue.js tech stack at [erural](https://www.erural.net/), the largest cattle marketplace in Brazil, and [eruralpay](https://www.eruralpay.net/), our financial app to cattle breeders.  
+I aim to be a more solid and constant engineer everyday, love to keep studying about the fundamentals and new tools to keep me sharp.
+
 >📎[LinkedIn](https://www.linkedin.com/in/gessivam-junior/)
 
 ### Main Languages & Frameworks
